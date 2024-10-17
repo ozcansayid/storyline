@@ -1,3 +1,5 @@
+//Bu kodu Slide Master sayfasıda ana slaytta execute javascript diyerek yapıştırınız, when timeline starts olarak ayarlayınız.
+
 window.TimerLibrary = (function() {
     var timer = null;
     var hours = 0;
